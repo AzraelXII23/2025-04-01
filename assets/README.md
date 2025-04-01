@@ -1,6 +1,6 @@
 # The Infinity Dragon: Symbol of Azrael Aurelius
 
-![YT.png](2025-04-01/assets/YT.png)
+![YT.png](YT.png)
 
 This symbol represents the eternal cycle of growth, destruction, and rebirth, reflecting my journey in cybersecurity and personal development. The **Infinity Dragon** embodies the paradox of wisdom gained through time and the relentless pursuit of progress. It is a mark of constant evolution—just like the infinite loop of learning and self-improvement.
 
