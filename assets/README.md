@@ -8,3 +8,5 @@ The dragon eating its own tail symbolizes the idea of perpetual motion and reinv
 
 ---
 *“In the endless pursuit of mastery, we thrive in the infinite.”*
+
+(This is just a prototype of the sketch)
