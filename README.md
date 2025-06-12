@@ -1,5 +1,6 @@
 # 2025-06-12 
-#### symbol-of-intelpuls
+## symbol-of-intelpuls
+
 ![Quiet Vortex](Vortex.png)
 
 The quiet vortex
