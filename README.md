@@ -1,5 +1,7 @@
 # 2025-06-12 
-symbol-of-intelpuls
+#### symbol-of-intelpuls
+![Quiet Vortex](Quiet-Vortex.png)
+
 The quiet vortex
 Quiet Vortex — Official Symbol of Azrael
 This repository contains the official design and intellectual property of the Quiet Vortex, the personal seal and emblem of Azrael.
