@@ -1,5 +1,6 @@
-# 2025-06-12 
-## symbol-of-intelpuls
+# 2025-06-12 - Quite Vortex - Prototype-1 
+
+## symbol-of-intelpuls (first sketch)
 
 ![Quiet Vortex](Vortex.png)
 
