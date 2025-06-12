@@ -1,6 +1,6 @@
 # 2025-06-12 
 #### symbol-of-intelpuls
-![Quiet Vortex](Quiet-Vortex.png)
+![Quiet Vortex](Vortex.png)
 
 The quiet vortex
 Quiet Vortex — Official Symbol of Azrael
