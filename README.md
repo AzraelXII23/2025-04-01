@@ -3,7 +3,11 @@
 ## symbol-of-intelpuls (first sketch)
 
 ![Quiet Vortex](Vortex.png)
+
+Prototype-2 
 ![Quiet Vertox](Assets-Picutres/V2.png)
+
+Prototype-3
 ![Quiet Vertox](Assets-Picutres/V3.png)
 
 The quiet vortex
